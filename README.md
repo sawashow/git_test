@@ -1,4 +1,4 @@
-#git_test
+# git_test
 
 line3
 
@@ -10,8 +10,4 @@ topic-A
 
 topic-B
 
-<<<<<<< HEAD
-topic-C
-=======
 topic-D
->>>>>>> topic-D
